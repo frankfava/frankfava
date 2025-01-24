@@ -13,8 +13,7 @@ Welcome to my GitHub! I'm a developer based in Stockholm, Sweden, with a knack f
 
 ## 🌟 Current Focus  
 
-- 🌐 **Fleet Management App**: A Laravel and Vue.js-based platform for vehicle management, logistics and monitoring.  
-- 🕹️ **Multiplayer Trivia Game Backend**: A Laravel-powered service for real-time trivia games, incorporating external APIs, caching, and advanced testing.  
+- 🌐 **Fleet Management App**: A Laravel and Vue.js-based platform for vehicle management, logistics and monitoring.    
 
 ## 🌱 Current Learning Focus
 
@@ -25,6 +24,9 @@ Welcome to my GitHub! I'm a developer based in Stockholm, Sweden, with a knack f
 
 ### [Multiplayer Trivia Game API](https://github.com/frankfava/trivia-game-api)  
 A Laravel-based backend service for managing and playing trivia games. This API supports creating games, managing questions, and providing real-time gameplay for multiple players. It handles game rounds, user scores, leaderboards, and more.  
+
+### [Laravel Proof](https://github.com/frankfava/laravel-proof)
+A simple backend CRUD implementation of the User model. Implemented several key features to showcase my depth of understanding in Laravel.
 
 ## 👯 I’m looking to collaborate on
 
