@@ -17,7 +17,8 @@ Welcome to my GitHub! I'm a developer based in Stockholm, Sweden, with a knack f
 
 ## 🌱 Current Learning Focus
 
-- Python
+- Python/ FastAPI
+- Nodejs/ Fastify
 - CLI tools
 
 ## 📂 Featured Projects  
