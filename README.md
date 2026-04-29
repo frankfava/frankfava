@@ -32,7 +32,7 @@ A Fun app that creates passwords using Aussie slang \
 6-step guided flow into a copy-pasteable, well-structured Lovable prompt. \
 **Demo:** [https://lovable-prompt-generator.netlify.app/](https://lovable-prompt-generator.netlify.app/)
 
-### [/create MVP - AI Skill](https://github.com/frankfava/ai-skill--create-mvp)
+### [/create-mvp - AI Skill](https://github.com/frankfava/ai-skill--create-mvp)
 Turns a vague idea into a checkpointed, parallel-executed MVP.
 
 ## 📬 Let's Connect!  
